@@ -11,8 +11,7 @@ This is a simple Product Management System built using HTML, CSS, and JavaScript
 - **Edit Product**: Allows users to update details of an existing product.
 - **Delete Product**: Users can delete any product from the list.
 - **Search Functionality**: Users can search for products based on name or other attributes.
-- **Responsive Design**: The interface is responsive and adjusts to different screen sizes for better usability on mobile and desktop devices.
-
+- 
 ## Technologies Used
 
 - **HTML**: For structuring the layout of the application.
